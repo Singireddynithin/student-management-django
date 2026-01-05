@@ -29,7 +29,8 @@ A Django-based web application to manage student records.
    python manage.py migrate
 6. Run the server
    python manage.py runserver
-7. Open in browser
-   http://127.0.0.1:8000/
-8. Admin Panel
+7. Open in browser (after running the server locally):
+http://127.0.0.1:8000/
+8. Admin Panel:
 http://127.0.0.1:8000/admin/
+
